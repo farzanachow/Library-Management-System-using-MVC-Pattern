@@ -1,0 +1,61 @@
+body{
+	background-color:rgb(113,242,220);
+
+     
+
+
+}
+
+h1{
+	font-size:50px;
+
+	text-align:center;
+}
+
+p.p1{
+	text-align:center;
+	text-decoration: underline;  
+	color:red;
+	font-size:25px;
+	font-family:verdana;
+}
+p.p2{
+	color:green;
+	font-family: Arial;
+	font-weight: bolder;
+}
+p.p3{
+	color:green;
+	font-family: Arial;
+	font-weight: bolder;
+}
+p.p4{
+	color:green;
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+p.p5{
+text-align:center;
+border:1px solid black;
+
+}
+.image1{
+	padding:20px;
+	border-color:black;
+	border-width: 2px;
+	border-style: solid;
+}
+.image2{
+	padding:20px;
+	border-color:black;
+	border-width: 2px;
+	border-style: solid;
+}
+
+.image3{
+	padding:20px;
+	border-color:black;
+	border-width: 2px;
+	border-style: solid;
+}
